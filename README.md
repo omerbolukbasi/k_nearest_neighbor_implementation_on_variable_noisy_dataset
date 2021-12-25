@@ -40,9 +40,9 @@ Maximum accuracy Dataset25: 0.94124999 at K = 249
 The following distance metrics are tested with corresponding parameter values. Minkowski p=1(manhattan),p=2(euclidean),p=3,5,10,100,1000. The highest accuracy obtained with Minkowski p=3.
 
 #### 4.2 Weights
-Weights metric is tested with the following options.
-Uniform : uniform weights. All points in each neighborhood are weighted equally.
-Distance : weight points by the inverse of their distance. in this case, closer neighbors of a query point will have a greater influence than neighbors which are further away.
+Weights metric is tested with the following options.<br>
+Uniform : uniform weights. All points in each neighborhood are weighted equally.<br>
+Distance : weight points by the inverse of their distance. in this case, closer neighbors of a query point will have a greater influence than neighbors which are further away.<br>
 The highest performance is obtained with uniform weight.
 
 ### 5. Result
