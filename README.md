@@ -30,9 +30,9 @@ If the input dataset has high noise rate and high variance, the model should be 
 As stated in the prior knowledge, Cross Validation is used to determine best k’s for different noise levels.<br>
 ![image](https://user-images.githubusercontent.com/44832162/147391779-308c0bff-a169-4cdd-b039-6995b8828ed0.png)<br>
  
-Maximum accuracy Dataset15: 0.99921875 at K = 9
-Maximum accuracy Dataset20: 0.98359375 at K = 29
-Maximum accuracy Dataset25: 0.94124999 at K = 249
+Maximum accuracy Dataset15: 0.99921875 at K = 9<br>
+Maximum accuracy Dataset20: 0.98359375 at K = 29<br>
+Maximum accuracy Dataset25: 0.94124999 at K = 249<br>
 
 ### 4. Determination of Hyper Parameters
 
